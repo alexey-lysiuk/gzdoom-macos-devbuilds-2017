@@ -9,3 +9,4 @@
 |[`g2.3pre-1060-g6f16597`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.3pre-1060-g6f16597/gzdoom-g2.3pre-1060-g6f16597.dmg)|`07cf277513d580ea93cde942dcb8a7461ebcb919a246283da28c5d9b89afdf82`|
 |[`g2.3pre-1064-gbe508bc`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.3pre-1064-gbe508bc/gzdoom-g2.3pre-1064-gbe508bc.dmg)|`f34ac9f2939dc354d5a0e8efdcb43ec7bd446e33d7520c825982f1f1d68f3975`|
 |[`g2.3pre-1072-ga37db1c`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.3pre-1072-ga37db1c/gzdoom-g2.3pre-1072-ga37db1c.dmg)|`8d5354c110c247c0d3192997e8bff2b02e4b8693922b293305ca162784246e28`|
+|[`g2.3pre-1083-gc03cb2c`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.3pre-1083-gc03cb2c/gzdoom-g2.3pre-1083-gc03cb2c.dmg)|`7206fe7baad84b6cb5df85607a9f79e12157b7db4f62e37b125debf11e624b74`|
