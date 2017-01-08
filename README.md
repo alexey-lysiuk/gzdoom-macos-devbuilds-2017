@@ -21,3 +21,4 @@
 |[`g2.4pre-41-gc52bc06`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-41-gc52bc06/gzdoom-g2.4pre-41-gc52bc06.dmg)|`f292653a6d4a68ffdc90b6073c3e0a7e200b57578c63657cd9ab0f7a8d2e58c3`|
 |[`g2.3.1`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.3.1/gzdoom-g2.3.1.dmg)|`78e2e9e2d6133d36318b9939221bc322f5d9cb58b311f28009251343a42fc958`|
 |[`g2.4pre-48-g91981e2`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-48-g91981e2/gzdoom-g2.4pre-48-g91981e2.dmg)|`9858ecd65988528b8c06d279be995ae36a8037088ede859bffc3e47a6c9910bd`|
+|[`g2.4pre-58-ge188047`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-58-ge188047/gzdoom-g2.4pre-58-ge188047.dmg)|`34cd53922fdbb1db164a5cc75533df37ddbe847c9236b7c86897e5346a14157d`|
