@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g2.4pre-159-gc5f100a`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-159-gc5f100a/gzdoom-g2.4pre-159-gc5f100a.dmg)|`11e07360e44bca91091d63ce35ca864b0b9dcfe5359e56bfd889ed3e8e48c2aa`|
 |[`g2.4pre-141-gd362694`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-141-gd362694/gzdoom-g2.4pre-141-gd362694.dmg)|`a1acf8fa74a455b6550d4c1cc754cb028a2989658cc712a30e92a47034f0b8d6`|
 |[`g2.4pre-126-g40e7fa5`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-126-g40e7fa5/gzdoom-g2.4pre-126-g40e7fa5.dmg)|`ec1c98230648dffe5c8c85c69c90cf38b1a2b1815205f7e5eb58910374f6c325`|
 |[`g2.4pre-114-g3b7d18c`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-114-g3b7d18c/gzdoom-g2.4pre-114-g3b7d18c.dmg)|`c177ac495b9f3134d6241c41b582ccfd6a56816edd9e14cb845efd85ec0f7976`|
