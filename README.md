@@ -2,6 +2,7 @@
 
 |Version / Link|SHA-256 Checksum|
 |---|---|
+|[`g2.4pre-310-gbecc00a`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-310-gbecc00a/gzdoom-g2.4pre-310-gbecc00a.dmg)|`6a35a88d6542708fcd5e51677c2a57691bcf195e4b74cbc2192fe16760cbdf9f`|
 |[`g2.4pre-303-gb77a0eb`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-303-gb77a0eb/gzdoom-g2.4pre-303-gb77a0eb.dmg)|`d67bfcf82810bd3694f2d8b92a3c5483baea176d162e0f4ec6ff0d5b35a14150`|
 |[`g2.4pre-295-gb12c8a8`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-295-gb12c8a8/gzdoom-g2.4pre-295-gb12c8a8.dmg)|`2abb7edfccbbe471c435cc7f0d40413c3b4133f10ea5e9fae6c7de1dc3e7fe48`|
 |[`g2.4pre-287-g7c5e3fb`](https://github.com/alexey-lysiuk/gzdoom-macos-devbuilds/releases/download/g2.4pre-287-g7c5e3fb/gzdoom-g2.4pre-287-g7c5e3fb.dmg)|`9c8f80d5a475adbe933071248d6ff8cabbc507cdec6ce94916975616f15d60f5`|
